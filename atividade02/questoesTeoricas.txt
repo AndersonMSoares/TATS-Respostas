@@ -1,0 +1,30 @@
+1 - O que é teste de software?????
+	-Garantir funcionalidade.
+	-Estruturada.
+	-Presença de Bugs.
+	-Execução ( colocar para funcionar e verificar seu funcionamento).
+
+2 - O que é teste de unidade, integração e sistema?
+	-Unidade -> teste em uma pequena parte do sistema.
+	-Integração -> teste na comunição relizada no sistema.
+	-Sistema -> Teste do sistema como um todo.
+
+3 - O que é um caso de teste? Dê exemplos.
+	- Um teste com entradas, saídas esperadas e condições de execução.
+
+4 - Qual a diferença entre um teste manual e um teste automatizado?
+	- Teste manual é realizado por um agente que é uma pessoa.
+	- Teste automatizado é realizado por um agente que é a maquina, executando 
+o teste depois de ter sido codificado.
+
+5 - Explique a diferença entre o teste caixa-branca e o teste caixa-preta?
+	- Caixa branca você tem acesso ao codigo.
+	- Caixa preta você so tem acesso ao sistema pronto, porém não aos codigos.
+
+6 - O que é um teste de regressão?
+	- Um teste que é repitido após uma mudança no software.
+
+7 - O que é um critério de teste?
+	- são regras ou condições que serão utilizadas para realizar o teste.
+	- No teste caixa branca é utilizado critério line e branch.
+	- No teste caixa preta temos os critérios PCE e AVL( que se completam) e TD.
